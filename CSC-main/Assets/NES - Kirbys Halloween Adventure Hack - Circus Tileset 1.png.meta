@@ -1,0 +1,2983 @@
+fileFormatVersion: 2
+guid: 43a95776a6cef344383940a35cb02b2a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d722cfa1f35976e4d85342dfe7db9939
+      internalID: -1950940103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4687ba90da56ab64db3137d9902ecb3b
+      internalID: 2040514929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230d8bf873478934f8396a5ebbef6a21
+      internalID: 1673986853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0964b775c5b6e941b968032042b5424
+      internalID: -1919258701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f778fe413461f584bb913325661c2c87
+      internalID: 159850793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a70b0fce7b92ca46995c499b99a7435
+      internalID: 768629046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfee4a39c01a4f14989f0d8400016816
+      internalID: 265001848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0a8e3e9226b1948aa0ae72fc26e10f
+      internalID: -17537676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4a40fb69940f544a0004b79d9669f3
+      internalID: 647647482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41d98e058f3e2e448e302125e6a336e
+      internalID: 1630474194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da4ff798abcbf147bda07e4bbb45c3a
+      internalID: 1592875928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bf404df85533f4eae74f27cdd08c66
+      internalID: 252643976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61be0f1a5a566c4dabe027bba7e99c3
+      internalID: 1849523418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_13
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c4b1dab2c207c4889c4faf304974dc
+      internalID: -382024424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_14
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 359
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdd792ee6034ec4f83524c68ae8b7f2
+      internalID: 1734036219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_15
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 359
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b908f77711dd344b1ba06e6e0967bc
+      internalID: 553230929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_16
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 359
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14f21141e41530418c15a35e286908e
+      internalID: 2089285579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39fef71c3f87de45ad5a1bda5bfe42d
+      internalID: 1036999435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5123de1e03b5fd4ebd3898ca152b619
+      internalID: 1617151876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5e4aab920d0c944bcaf9b1213189c3
+      internalID: -463121093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e35af4802a5224aa05c34c16377dde
+      internalID: -460473156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e350f150ce8e09a4aa6c2c2d32dce98f
+      internalID: 832479979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_22
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a839b7b288fda1d45b492f6d2db56a78
+      internalID: -285473767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa7ce1c3fc385f4aa7940ef8890574b
+      internalID: 1425439509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b96f820509ac0e4c8e9211e109887e8
+      internalID: 2077982466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_25
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14fcd4ef90a84e4fbf0c71e9715a8c6
+      internalID: 1773248843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd30c7d1ab14974cbf8fbe788404989
+      internalID: 759224293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 335
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c00d6d7126c2214fa73fffd025c50b2
+      internalID: -1446895859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 335
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c869be116383844b7e707994811b59
+      internalID: 149262861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_29
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 335
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013418b69a4a2d24d8b78b1fa6ea0840
+      internalID: 190858594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 335
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f61aae813bcd85418b155b27209e479
+      internalID: 1716440934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_31
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 335
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86760277977ddac40930a300a24eba4c
+      internalID: -1857500637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_32
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 335
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edc13beac1fd5a4693edbc222697185
+      internalID: -349485774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_33
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdac6f847ba39a4eb20e02b67752886
+      internalID: 501088655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_34
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1890421af96d7604d858bcbc90726c6a
+      internalID: 1064930610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_35
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feef9692ff03864499a551f6aa4e235
+      internalID: 1315517453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_36
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1314aaf55ea869c4bbcb8f017a5202df
+      internalID: -1488271488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_37
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ae574885ebffe45b6c9dcf8f1e8041
+      internalID: -82112019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_38
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1193a396b64eb34abc36fce5c72eb06
+      internalID: 1257009370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_39
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057a5ec48a93f7e439868e691b27c7a7
+      internalID: 2055244670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_40
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e938e2f5f20b164194ba81aae6edabf
+      internalID: 1909342940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_41
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0ac14b9341a944b824f648d829decd
+      internalID: 1583556257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f682ad3817c6be4a8a94f29db3ca035
+      internalID: 690026834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_43
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157a8d4b792668e4687da2740b4b6527
+      internalID: -576720764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_44
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aa9a5a18261b842b972db13597f964
+      internalID: 2131284507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_45
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58f1b0c78c07de49b527b5315596067
+      internalID: 822147720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c468eeb4fdbc3e45989bbf6c7f4d0f9
+      internalID: 1214642585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_47
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48719caac5862f14fb8d4533ffbfbddc
+      internalID: 12847476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_48
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07168848e06fabf45a94780b98bb3a39
+      internalID: 143869998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_49
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84cf03313b850c4ab3dd11d80635c39
+      internalID: -934378401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_50
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5847c70d0f58de4dbf90075e4008014
+      internalID: -1588024693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_51
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23154dbc3a7049c439f408ad0e29b90f
+      internalID: -980748626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_52
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9dd5e0f826240458c050ac9bbdcfe0
+      internalID: 856308263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_53
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce319c8ae422b14b9b205c5c881b2a4
+      internalID: 2062216163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_54
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92340960c787e9c43a1a7a676d5efbfd
+      internalID: 1584682664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_55
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedea89710d449f45879d0f61a8f054f
+      internalID: 941022605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_56
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fe64568538d1b48bb96cb2098b2e9f
+      internalID: -728886824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_57
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd093746069b88458c42677dc06ffea
+      internalID: -684842338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_58
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f90215a57dfc941b7373054157b5ea
+      internalID: -888271051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_59
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4644d09d400e04bacc3a6d435afa66
+      internalID: 1391922997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 294
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21582dc282e41f44bb717ecee0b269c5
+      internalID: 937756771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_61
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 294
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079278644a562e544a938d0aead0a75d
+      internalID: 1998107278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_62
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53f7439cce11374c8e065058500e91f
+      internalID: -521098073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_63
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5290dec3f355b44f9e0c7d6429ec00b
+      internalID: -495517417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_64
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae79c1a0ef1a1f4dbe0b30ea3b37082
+      internalID: 420460289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_65
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1672fae1facc0c049a9d6fda229fbd64
+      internalID: -1418639499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_66
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aeaa0c05067e347b338535733d2265
+      internalID: -1832269495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_67
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dce7151c2ec3c4887c79ba37b454ef
+      internalID: 794368138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_68
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836d00e55786dd541ad93dc697d16874
+      internalID: -1796483663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7798b0e36bf7a40bc5e639947cf73c
+      internalID: 1442492487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_70
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea3285c4fc6e3345b5cc1637e9c1a4b
+      internalID: -25518876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_71
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633dceb9d4664a848bc57faf973a83dd
+      internalID: 1313806170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_72
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e531fbd60a2564cbbdace10b5e5d66
+      internalID: -895539202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_73
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61985c185ffdf9c44b1ae9fac3d05be0
+      internalID: -145356381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a8e9716489a5343b4f068661311da6
+      internalID: -481856472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_75
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f94ab0e09272a94f8b1da4bc20a5bd6
+      internalID: 1681446824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_76
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e9faeff2086c944b4460f72dd86dba
+      internalID: 759200024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_77
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad3441ed6f98fc4a8e2eb7a6faad64e
+      internalID: 1317468666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_78
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f550dac4de5c0c9498e5eda171308653
+      internalID: 798327540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_79
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4c42bf22cd8ce4eaf008f755eee337
+      internalID: -1753625343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_80
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499392f6636ef5b4aa21d148b4965902
+      internalID: 78363499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_81
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f644dcb8ad2a5741a2fe6d6f50d0045
+      internalID: 430957681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_82
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36902c35c936bdc40bae2ed2dbea27bb
+      internalID: 451906206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_83
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d2647731dedbb45937c37ba10cd132
+      internalID: 1222402244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_84
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a305cdc1b23784293b0c8b61bf2fae
+      internalID: 785859998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_85
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb0a09ada2851f499368d6c81ebb422
+      internalID: -1886334483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_86
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25569db48db49d447b9550f18ec3ee4b
+      internalID: 444860337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_87
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81e31b93e2ee2c44a107e73f5381ef1
+      internalID: -253731477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_88
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74684a3e0b31eee46a7d85ea7cdd3681
+      internalID: -755986766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_89
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ec742cabb163a4f99a672acd190ea1
+      internalID: -1285724795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_90
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7512dd584e76fd42a760883d0c68ea6
+      internalID: -1639883671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_91
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3606dd8493520af46a81572b657c7936
+      internalID: 425624918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_92
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba1ec417c27d8a4aa9983da13d2f820
+      internalID: 1143762090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_93
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5988fb7d8cc04342ba2773244435c20
+      internalID: -1447012649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_94
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 245
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f27d427ba5172649a58ef6135f0875b
+      internalID: -656490451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_95
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 226
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c86105f23bd8b49a06d60aa9e654dd
+      internalID: 1632374252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_96
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 226
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c8b67b9fd0a924ea365e71b4e73c97
+      internalID: 1534647071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_97
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 226
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de42f32640f81049b566bfb56cb6827
+      internalID: -334123146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_98
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac16ce71d48f25a4bbf16200a8b16d3a
+      internalID: 1477460242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_99
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d1eeae4026e3d498a9c3dec03148c4
+      internalID: 176911994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_100
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42b345048da75b48974137c80a936a9
+      internalID: 99016419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_101
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668df6f228d83854594cf34862b4157a
+      internalID: 242172851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_102
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 207
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd821cd931ca4e429f201d1bc185e28
+      internalID: -842051220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_103
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 207
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4b45d257cff1048aaa12624e564018
+      internalID: -1416292673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_104
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 207
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90be3b3a34a6fe44caf4c4e95ceef17c
+      internalID: 7308207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_105
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 207
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2a0aef7765f8c4899064a761e45b78
+      internalID: -1571440218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_106
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7af9092a9a123d4a98d6dc2f00cce61
+      internalID: -525359899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_107
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c516b380533709c45a628c51c8a59022
+      internalID: -1297127188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_108
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317d351dbda480c4fbcb43d138fe1cf4
+      internalID: 1008767780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_109
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e663d651a637fca4bb4f4ff7e7782bd0
+      internalID: 771494645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_110
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 190
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e518c93049ae44eab2aa8264c266c4
+      internalID: 1468596476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_111
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 190
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83053aa6ff2892f4cbc57202a9b0aea5
+      internalID: 1770281729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_112
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 190
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e04b22dc600f914c97b351b0539b497
+      internalID: 1920275597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_113
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 190
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aa01721d175c0419a78805ecd627ef
+      internalID: 1513751566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_119
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c029aee8f1a2c42a8765d6e19d8967
+      internalID: -1798356299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_120
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f54a11ea378be44c8446c038c995b85
+      internalID: -2141586167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_121
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dc5e2b2f8739145a077e8eabc2db79
+      internalID: 46323512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_122
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ff79052298bf04393dc26a65ef7477
+      internalID: 121659721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_123
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa8093db35a8a8478cab4578a6f85d9
+      internalID: 19422682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_125
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a539a3d4ac6f0c4a90ce9b252cd7389
+      internalID: 122993287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_126
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20681b79040dca4590aec31d3eb68d6
+      internalID: 1807138796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_127
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7fadf587a917c44b821747d7be691c
+      internalID: 1763290268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_128
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92893bcc96af2564e9cec46699fd4bf5
+      internalID: -1240876621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_129
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8d6808a6b870b4e9d3cb80feb8e627
+      internalID: -776921050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_130
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b6523c948c08f4c8328acb81d69d55
+      internalID: 851886037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_131
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1c780f9c75e1b4fb9a5f89041d1401
+      internalID: 613834670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_132
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bd93f22191f1f42a86765693be0319
+      internalID: 1500031337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_0: -1950940103
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_1: 2040514929
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_10: 1592875928
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_100: 99016419
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_101: 242172851
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_102: -842051220
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_103: -1416292673
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_104: 7308207
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_105: -1571440218
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_106: -525359899
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_107: -1297127188
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_108: 1008767780
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_109: 771494645
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_11: 252643976
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_110: 1468596476
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_111: 1770281729
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_112: 1920275597
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_113: 1513751566
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_114: -350699472
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_115: -1140076449
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_116: 1945981538
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_117: 328193095
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_118: 874371650
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_119: -1798356299
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_12: 1849523418
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_120: -2141586167
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_121: 46323512
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_122: 121659721
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_123: 19422682
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_124: 1136109927
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_125: 122993287
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_126: 1807138796
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_127: 1763290268
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_128: -1240876621
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_129: -776921050
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_13: -382024424
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_130: 851886037
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_131: 613834670
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_132: 1500031337
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_14: 1734036219
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_15: 553230929
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_16: 2089285579
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_17: 1036999435
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_18: 1617151876
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_19: -463121093
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_2: 1673986853
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_20: -460473156
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_21: 832479979
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_22: -285473767
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_23: 1425439509
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_24: 2077982466
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_25: 1773248843
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_26: 759224293
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_27: -1446895859
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_28: 149262861
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_29: 190858594
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_3: -1919258701
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_30: 1716440934
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_31: -1857500637
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_32: -349485774
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_33: 501088655
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_34: 1064930610
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_35: 1315517453
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_36: -1488271488
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_37: -82112019
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_38: 1257009370
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_39: 2055244670
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_4: 159850793
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_40: 1909342940
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_41: 1583556257
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_42: 690026834
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_43: -576720764
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_44: 2131284507
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_45: 822147720
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_46: 1214642585
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_47: 12847476
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_48: 143869998
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_49: -934378401
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_5: 768629046
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_50: -1588024693
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_51: -980748626
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_52: 856308263
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_53: 2062216163
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_54: 1584682664
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_55: 941022605
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_56: -728886824
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_57: -684842338
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_58: -888271051
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_59: 1391922997
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_6: 265001848
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_60: 937756771
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_61: 1998107278
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_62: -521098073
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_63: -495517417
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_64: 420460289
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_65: -1418639499
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_66: -1832269495
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_67: 794368138
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_68: -1796483663
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_69: 1442492487
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_7: -17537676
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_70: -25518876
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_71: 1313806170
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_72: -895539202
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_73: -145356381
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_74: -481856472
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_75: 1681446824
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_76: 759200024
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_77: 1317468666
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_78: 798327540
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_79: -1753625343
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_8: 647647482
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_80: 78363499
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_81: 430957681
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_82: 451906206
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_83: 1222402244
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_84: 785859998
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_85: -1886334483
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_86: 444860337
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_87: -253731477
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_88: -755986766
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_89: -1285724795
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_9: 1630474194
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_90: -1639883671
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_91: 425624918
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_92: 1143762090
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_93: -1447012649
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_94: -656490451
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_95: 1632374252
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_96: 1534647071
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_97: -334123146
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_98: 1477460242
+      NES - Kirbys Halloween Adventure Hack - Circus Tileset 1_99: 176911994
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
